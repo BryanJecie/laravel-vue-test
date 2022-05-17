@@ -20,6 +20,6 @@ test task for laravel and vue
 * `npm run dev`
 
 ### admin credentials:
-
-email : <a> admin@admin.com </a>
+email :   admin@admin.com
+<br>
 password : secret
