@@ -1,2 +1,25 @@
 # laravel-vue-test
 test task for laravel and vue
+
+## instruction
+
+* Copy .env.example to .env `cp .env.example .env`
+
+### run the following.
+
+* `composer install`
+
+* `npm install`
+
+* `php artisan key:generate`
+
+* `php artisan migrate`
+
+* `php artisan db:seed`
+
+* `npm run dev`
+
+### admin credentials:
+
+email : <a> admin@admin.com </a>
+password : secret
