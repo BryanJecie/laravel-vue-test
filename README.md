@@ -5,6 +5,9 @@ test task for laravel and vue
 
 * Copy .env.example to .env `cp .env.example .env`
 
+<p>update your db credentials </p>
+
+
 ### run the following.
 
 * `composer install`
